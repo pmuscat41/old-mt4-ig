@@ -1,0 +1,2 @@
+# git ignore all .ex4 files
+.ex4
